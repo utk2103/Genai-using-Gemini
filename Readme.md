@@ -8,3 +8,6 @@
  ### Set environment variable
 
  ```export GOOGLE_API_KEY = '' ```
+
+
+```$ alias python=python3``` 
