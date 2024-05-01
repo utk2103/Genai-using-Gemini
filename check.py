@@ -1,4 +1,4 @@
-from urlib import response
+# from urlib import response
 import google.generativeai as genai
 
 model = genai.GenerativeModel("gemini-pro")
